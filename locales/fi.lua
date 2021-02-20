@@ -52,7 +52,7 @@ Locales['fi'] = {
   ['vehicleshop_money'] = 'et voi ostaa tätä ajoneuvoa',
   ['vehicleshop_awaiting_model'] = 'ajoneuvoasi tällä hetkellä ~g~LADATAAN~s~ odota hetki',
   ['confirm_no'] = 'ei',
-  ['confirm_yes'] = 'kyllä'
+  ['confirm_yes'] = 'kyllä',
   -- Service
   ['service_max'] = 'you cannot enter service, max officers in service: %s/%s',
   ['service_not'] = 'you have not entered service! You\'ll have to get changed first.',
@@ -60,7 +60,7 @@ Locales['fi'] = {
   ['service_in'] = 'you\'ve entered service, welcome!',
   ['service_in_announce'] = 'operator ~y~%s~s~ has entered service!',
   ['service_out'] = 'you have left service.',
-  ['service_out_announce'] = 'työntekijä ~y~%s~s~ lopettaa vuoron.'
+  ['service_out_announce'] = 'työntekijä ~y~%s~s~ lopettaa vuoron.',
   -- Action Menu
   ['citizen_interaction'] = 'siviilin vuorovaikutus',
   ['vehicle_interaction'] = 'ajoneuvon vuorovaikutus',
